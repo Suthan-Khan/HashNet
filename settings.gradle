@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = 'HashNet'
-include('app', 'list', 'utilities')
+include('frontend', 'protocol')
